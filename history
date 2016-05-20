@@ -525,3 +525,33 @@
   525  git config --list
   526  git init
   527  history > history
+  528  Look at all teh commands I issued so far!
+  529  git status
+  530  git add history
+  531  git commit -m 'This is supposed to add my history to my repository'
+  532  git remote add origin https://github.com/jeffrobombero/myopenstack.git
+  533  git push origin master
+  534  git pull origin master
+  535  git push origin master
+  536  cd
+  537  whoami
+  538  centos
+  539  whoamiu
+  540  whoami
+  541  exit
+  542  su sentos
+  543  su centos
+  544  exit
+  545  su centa
+  546  su centos
+  547  cd ~
+  548  ls -lrt
+  549  git remote add origin https://github.com/jeffrobombero/myopenstack.git
+  550  git push -u origin master
+  551  exit
+  552  history > history
+  553  git status
+  554  git init
+  555  cd myopenstack
+  556  git init
+  557  history > history
